@@ -18,4 +18,4 @@ Technologies Used
 - **Python**: Primary programming language for integration and execution.  
 
 **INSTALLATION**
-just upload the folder in vscode and run imp.py to make dataset for sign language ( alphabets a-z) then run dataset.py. resolve errors by installing requires liberaries. then run classifier and at last main file. Train the ai chatbot for more sentences in knowledge.json.
+just upload the folder in vscode and run imp.py to make dataset for sign language ( alphabets a-z) then run dataset.py . resolve errors by installing requireD liberaries. then run classifier and at last main file. Train the ai chatbot for more sentences in knowledge.json.
