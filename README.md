@@ -17,5 +17,5 @@ Technologies Used
 - **OpenMP**: For parallel processing to speed up computation.  
 - **Python**: Primary programming language for integration and execution.  
 
-Installation  
-just upload the folder in vscode and run imp.py to make dataset for sign language ( alphabets a-z) then run dataset.py. resolve errors by installing requires liberaries. then run classifier and at last main file.
+**INSTALLATION**
+just upload the folder in vscode and run imp.py to make dataset for sign language ( alphabets a-z) then run dataset.py. resolve errors by installing requires liberaries. then run classifier and at last main file. Train the ai chatbot for more sentences in knowledge.json.
